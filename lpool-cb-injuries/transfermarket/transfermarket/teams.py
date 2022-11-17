@@ -3,6 +3,7 @@ from typing import Dict, List, Literal, Tuple
 import bs4
 import pandas as pd
 import requests
+
 from transfermarket.leagues import Competition
 from transfermarket.players import get_player_availability
 from transfermarket.utils import headers
