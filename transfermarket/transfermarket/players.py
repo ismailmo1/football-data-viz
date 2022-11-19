@@ -13,6 +13,7 @@ def get_player_availability(
     season: str,
     competition: Optional[Competition] = None,
     columns: Literal["Matchday"] | Literal["Date"] = "Date",
+    add_match_result: bool = False,
 ):
     player_url = player_url + f"/plus/1?saison={season}"
     if competition:
@@ -102,7 +103,19 @@ def get_player_availability(
         availability_levels
     )
 
-    availability_df = all_matches.loc[:, [columns, "availability_level"]]
+    if add_match_result:
+        availability_df = all_matches.loc[
+            :,
+            [
+                columns,
+                "availability_level",
+                "Home team.1",
+                "Away team.1",
+                "Result",
+            ],
+        ]
+    else:
+        availability_df = all_matches.loc[:, [columns, "availability_level"]]
     if columns == "Date":
         availability_df["Date"] = availability_df["Date"].apply(
             lambda x: x.date()

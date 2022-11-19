@@ -6,7 +6,7 @@ def test_get_player_availability():
     comp = Competition.PREMIER_LEAGUE
     season = "2022"
 
-    avail_data = get_player_availability(player_url, comp, season, "Matchday")
+    avail_data = get_player_availability(player_url, season, comp, "Matchday")
 
     assert avail_data is not None
     assert avail_data.loc["antony", 10] == 4
