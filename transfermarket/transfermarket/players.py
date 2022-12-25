@@ -1,27 +1,16 @@
-from typing import Literal, Optional
+from typing import Literal
 
 import numpy as np
 import pandas as pd
 import requests
-
-from transfermarket.leagues import Competition
 from transfermarket.utils import headers
 
 
-def get_player_availability(
-    player_url: str,
-    season: str,
-    competition: Optional[Competition] = None,
-    columns: Literal["Matchday"] | Literal["Date"] = "Date",
-    add_match_result: bool = False,
-):
+def get_match_data(player_url: str, season: str):
+    # TODO: add separate parsing logic for competition filters
     player_url = player_url + f"/plus/1?saison={season}"
-    if competition:
-        player_url += f"&wettbewerb={competition.value}"
     # get name out of url
-    player_name = player_url.split("https://www.transfermarkt.com/")[1].split(
-        "/"
-    )[0]
+
     # stats for injuries are on different page to profile
     player_url = player_url.replace("profil", "leistungsdatendetails")
 
@@ -32,15 +21,18 @@ def get_player_availability(
     for idx, df in enumerate(dfs):
         if "Matchday" in df.columns:
             match_dfs.append(df)
-    all_matches = pd.concat(match_dfs)
-
+    try:
+        all_matches = pd.concat(match_dfs)
+    except ValueError:
+        print(f"no match data found for {player_url}")
+        return
     # remove footer row
     all_matches = all_matches.loc[
         all_matches.iloc[:, 0].apply(
             lambda x: "Squad" not in str(x)
         )  # type:ignore
     ]
-    all_matches["Date"] = pd.to_datetime(all_matches["Date"])
+    all_matches["Date"] = pd.to_datetime(all_matches["Date"], errors="coerce")
 
     # last column is minutes played
     all_matches["min_played"] = all_matches.iloc[:, 16].fillna(0)
@@ -62,6 +54,28 @@ def get_player_availability(
         ],
     ]
 
+    return all_matches
+
+
+def get_minutes_played(match_data: pd.DataFrame):
+    def get_min_played(min_played: str):
+        minutes_split = str(min_played).split("'")
+        if len(minutes_split) < 2:
+            return 0
+        else:
+            return int(minutes_split[0])
+
+    match_data["min_played"] = match_data["min_played"].apply(get_min_played)
+
+    return match_data
+
+
+def calculate_player_availability(
+    player_name: str,
+    minutes_played: pd.DataFrame,
+    columns: Literal["Matchday"] | Literal["Date"] = "Date",
+    add_match_result: bool = False,
+):
     def get_availability(row: pd.Series):
         if row["Result"] == "-:-":
             return None
@@ -78,17 +92,8 @@ def get_player_availability(
 
         return "Injured"
 
-    def get_min_played(min_played: str):
-        minutes_split = str(min_played).split("'")
-        if len(minutes_split) < 2:
-            return 0
-        else:
-            return int(minutes_split[0])
-
-    all_matches["min_played"] = all_matches["min_played"].apply(get_min_played)
-
     # create categories based on subbed on/off, minutes played
-    all_matches["availability"] = all_matches.apply(
+    minutes_played["availability"] = minutes_played.apply(
         get_availability, axis=1  # type:ignore
     )
 
@@ -99,12 +104,12 @@ def get_player_availability(
         "Played (sub)": 3,
         "Played (starter)": 4,
     }
-    all_matches["availability_level"] = all_matches["availability"].map(
+    minutes_played["availability_level"] = minutes_played["availability"].map(
         availability_levels
     )
 
     if add_match_result:
-        availability_df = all_matches.loc[
+        availability_df = minutes_played.loc[
             :,
             [
                 columns,
@@ -115,7 +120,9 @@ def get_player_availability(
             ],
         ]
     else:
-        availability_df = all_matches.loc[:, [columns, "availability_level"]]
+        availability_df = minutes_played.loc[
+            :, [columns, "availability_level"]
+        ]
     if columns == "Date":
         availability_df["Date"] = availability_df["Date"].apply(
             lambda x: x.date()
@@ -131,3 +138,21 @@ def get_player_availability(
     )
 
     return availability_df
+
+
+def get_player_availability(
+    player_url: str,
+    season: str,
+):
+    player_name = player_url.split("https://www.transfermarkt.com/")[1].split(
+        "/"
+    )[0]
+    match_data = get_match_data(player_url, season)
+    if not match_data:
+        return
+    minutes_played = get_minutes_played(match_data)
+    player_availability = calculate_player_availability(
+        player_name, minutes_played
+    )
+
+    return player_availability
