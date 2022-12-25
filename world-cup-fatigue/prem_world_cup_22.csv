@@ -1,0 +1,664 @@
+,Date,Matchday,Home team.1,Away team.1,Result,min_played,subbed_on,subbed_off,player_name,club
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,90,,,Manuel Akanji,Manchester City
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Manuel Akanji,Manchester City
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,90,,,Manuel Akanji,Manchester City
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,90,,,Manuel Akanji,Manchester City
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,João Cancelo,Manchester City
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,90,,,João Cancelo,Manchester City
+2,2022-12-02,Group H,South Korea,Portugal,2:1,90,,,João Cancelo,Manchester City
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,on the bench,on the bench,João Cancelo,Manchester City
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,39,51',,João Cancelo,Manchester City
+0,2022-11-23,Group E,Spain,Costa Rica,7:0,90,,,Aymeric Laporte,Manchester City
+1,2022-11-27,Group E,Spain,Germany,1:1,90,,,Aymeric Laporte,Manchester City
+2,2022-12-01,Group E,Japan,Spain,2:1,0,on the bench,on the bench,Aymeric Laporte,Manchester City
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,120,,,Aymeric Laporte,Manchester City
+0,2022-11-21,Group B,England,Iran,6:2,19,71',,Phil Foden,Manchester City
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Phil Foden,Manchester City
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Phil Foden,Manchester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,65,,65',Phil Foden,Manchester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,85,,85',Phil Foden,Manchester City
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,Rúben Dias,Manchester City
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,90,,,Rúben Dias,Manchester City
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,on the bench,on the bench,Rúben Dias,Manchester City
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,90,,,Rúben Dias,Manchester City
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,90,,,Rúben Dias,Manchester City
+0,2022-11-21,Group B,England,Iran,6:2,90,,,John Stones,Manchester City
+1,2022-11-25,Group B,England,USA,0:0,90,,,John Stones,Manchester City
+2,2022-11-29,Group B,Wales,England,0:3,90,,,John Stones,Manchester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,77,,77',John Stones,Manchester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,90',John Stones,Manchester City
+0,2022-11-23,Group E,Spain,Costa Rica,7:0,90,,,Rodri,Manchester City
+1,2022-11-27,Group E,Spain,Germany,1:1,90,,,Rodri,Manchester City
+2,2022-12-01,Group E,Japan,Spain,2:1,90,,,Rodri,Manchester City
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,120,,,Rodri,Manchester City
+0,2022-11-22,Group C,Argentina,Saudi Arabia,1:2,31,59',,Julián Álvarez,Manchester City
+1,2022-11-26,Group C,Argentina,Mexico,2:0,27,63',,Julián Álvarez,Manchester City
+2,2022-11-30,Group C,Poland,Argentina,0:2,79,,79',Julián Álvarez,Manchester City
+3,2022-12-03,Round of 16,Argentina,Australia,2:1,71,,71',Julián Álvarez,Manchester City
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,82,,82',Julián Álvarez,Manchester City
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,74,,74',Julián Álvarez,Manchester City
+6,2022-12-18,Final,Argentina,France,7:5 on pens,103,,103',Julián Álvarez,Manchester City
+0,2022-11-21,Group B,England,Iran,6:2,19,71',,Jack Grealish,Manchester City
+1,2022-11-25,Group B,England,USA,0:0,22,68',,Jack Grealish,Manchester City
+2,2022-11-29,Group B,Wales,England,0:3,14,76',,Jack Grealish,Manchester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,25,65',,Jack Grealish,Manchester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,1,90',,Jack Grealish,Manchester City
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Kalvin Phillips,Manchester City
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Kalvin Phillips,Manchester City
+2,2022-11-29,Group B,Wales,England,0:3,32,58',,Kalvin Phillips,Manchester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,8,82',,Kalvin Phillips,Manchester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Kalvin Phillips,Manchester City
+0,2022-11-24,Group H,Portugal,Ghana,3:2,88,,88',Bernardo Silva,Manchester City
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,90,,,Bernardo Silva,Manchester City
+2,2022-12-02,Group H,South Korea,Portugal,2:1,9,81',,Bernardo Silva,Manchester City
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,81,,81',Bernardo Silva,Manchester City
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,90,,,Bernardo Silva,Manchester City
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Nathan Aké,Manchester City
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,90,,,Nathan Aké,Manchester City
+2,2022-11-29,Group A,Netherlands,Qatar,2:0,90,,,Nathan Aké,Manchester City
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,90',Nathan Aké,Manchester City
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,120,,,Nathan Aké,Manchester City
+0,2022-11-21,Group B,England,Iran,6:2,0,Fitness,Fitness,Kyle Walker,Manchester City
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Kyle Walker,Manchester City
+2,2022-11-29,Group B,Wales,England,0:3,57,,57',Kyle Walker,Manchester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Kyle Walker,Manchester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Kyle Walker,Manchester City
+0,2022-11-23,Group E,Germany,Japan,1:2,67,,67',Ilkay Gündogan,Manchester City
+1,2022-11-27,Group E,Spain,Germany,1:1,70,,70',Ilkay Gündogan,Manchester City
+2,2022-12-01,Group E,Costa Rica,Germany,2:4,55,,55',Ilkay Gündogan,Manchester City
+0,2022-11-23,Group F,Belgium,Canada,1:0,90,,,Kevin De Bruyne,Manchester City
+1,2022-11-27,Group F,Belgium,Morocco,0:2,90,,,Kevin De Bruyne,Manchester City
+2,2022-12-01,Group F,Croatia,Belgium,0:0,90,,,Kevin De Bruyne,Manchester City
+0,2022-11-24,Group G,Brazil,Serbia,2:0,0,on the bench,on the bench,Ederson,Manchester City
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,0,on the bench,on the bench,Ederson,Manchester City
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,90,,,Ederson,Manchester City
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,on the bench,on the bench,Ederson,Manchester City
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,0,on the bench,on the bench,Ederson,Manchester City
+0,2022-11-24,Group G,Brazil,Serbia,2:0,90,,,Alisson,Liverpool FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Alisson,Liverpool FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,0,on the bench,on the bench,Alisson,Liverpool FC
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,80,,80',Alisson,Liverpool FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,120,,,Alisson,Liverpool FC
+0,2022-11-24,Group H,Uruguay,South Korea,0:0,90,,,Darwin Núñez,Liverpool FC
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,72,,72',Darwin Núñez,Liverpool FC
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,80,,80',Darwin Núñez,Liverpool FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,0,on the bench,on the bench,Fabinho,Liverpool FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,0,on the bench,on the bench,Fabinho,Liverpool FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,90,,,Fabinho,Liverpool FC
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,on the bench,on the bench,Fabinho,Liverpool FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,0,on the bench,on the bench,Fabinho,Liverpool FC
+0,2022-11-22,Group D,France,Australia,4:1,90,,,Ibrahima Konaté,Liverpool FC
+1,2022-11-26,Group D,France,Denmark,2:1,15,75',,Ibrahima Konaté,Liverpool FC
+2,2022-11-30,Group D,Tunisia,France,1:0,90,,,Ibrahima Konaté,Liverpool FC
+3,2022-12-04,Round of 16,France,Poland,3:1,0,on the bench,on the bench,Ibrahima Konaté,Liverpool FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Ibrahima Konaté,Liverpool FC
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,90,,,Ibrahima Konaté,Liverpool FC
+6,2022-12-18,Final,Argentina,France,7:5 on pens,7,113',,Ibrahima Konaté,Liverpool FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Trent Alexander-Arnold,Liverpool FC
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Trent Alexander-Arnold,Liverpool FC
+2,2022-11-29,Group B,Wales,England,0:3,33,57',,Trent Alexander-Arnold,Liverpool FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Trent Alexander-Arnold,Liverpool FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Trent Alexander-Arnold,Liverpool FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Jordan Henderson,Liverpool FC
+1,2022-11-25,Group B,England,USA,0:0,21,69',,Jordan Henderson,Liverpool FC
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Jordan Henderson,Liverpool FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,82,,82',Jordan Henderson,Liverpool FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,79,,79',Jordan Henderson,Liverpool FC
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Virgil van Dijk,Liverpool FC
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,90,,,Virgil van Dijk,Liverpool FC
+2,2022-11-29,Group A,Netherlands,Qatar,2:0,90,,,Virgil van Dijk,Liverpool FC
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,,Virgil van Dijk,Liverpool FC
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,120,,,Virgil van Dijk,Liverpool FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,Calf Injury,Calf Injury,Diogo Jota,Liverpool FC
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,Calf Injury,Calf Injury,Diogo Jota,Liverpool FC
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,Calf Injury,Calf Injury,Diogo Jota,Liverpool FC
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,Calf Injury,Calf Injury,Diogo Jota,Liverpool FC
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,Calf Injury,Calf Injury,Diogo Jota,Liverpool FC
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Kalidou Koulibaly,Chelsea FC
+1,2022-11-25,Group A,Qatar,Senegal,1:3,90,,,Kalidou Koulibaly,Chelsea FC
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,90,,,Kalidou Koulibaly,Chelsea FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Kalidou Koulibaly,Chelsea FC
+0,2022-11-21,Group B,England,Iran,6:2,71,,71',Mason Mount,Chelsea FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Mason Mount,Chelsea FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Mason Mount,Chelsea FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,14,76',,Mason Mount,Chelsea FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,11,79',,Mason Mount,Chelsea FC
+0,2022-11-23,Group E,Germany,Japan,1:2,79,,79',Kai Havertz,Chelsea FC
+1,2022-11-27,Group E,Spain,Germany,1:1,0,on the bench,on the bench,Kai Havertz,Chelsea FC
+2,2022-12-01,Group E,Costa Rica,Germany,2:4,23,67',,Kai Havertz,Chelsea FC
+0,2022-11-23,Group E,Spain,Costa Rica,7:0,90,,,César Azpilicueta,Chelsea FC
+1,2022-11-27,Group E,Spain,Germany,1:1,0,on the bench,on the bench,César Azpilicueta,Chelsea FC
+2,2022-12-01,Group E,Japan,Spain,2:1,45,,46',César Azpilicueta,Chelsea FC
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,0,on the bench,on the bench,César Azpilicueta,Chelsea FC
+0,2022-11-22,Group D,France,Australia,4:1,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+1,2022-11-26,Group D,France,Denmark,2:1,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+2,2022-11-30,Group D,Tunisia,France,1:0,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+3,2022-12-04,Round of 16,France,Poland,3:1,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+6,2022-12-18,Final,Argentina,France,7:5 on pens,0,Hamstring Injury,Hamstring Injury,N'Golo Kanté,Chelsea FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Conor Gallagher,Chelsea FC
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Conor Gallagher,Chelsea FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Conor Gallagher,Chelsea FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Conor Gallagher,Chelsea FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Conor Gallagher,Chelsea FC
+0,2022-11-23,Group F,Morocco,Croatia,0:0,90,,,Hakim Ziyech,Chelsea FC
+1,2022-11-27,Group F,Belgium,Morocco,0:2,90,,,Hakim Ziyech,Chelsea FC
+2,2022-12-01,Group F,Canada,Morocco,1:2,76,,76',Hakim Ziyech,Chelsea FC
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,120,,,Hakim Ziyech,Chelsea FC
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,82,,82',Hakim Ziyech,Chelsea FC
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,90,,,Hakim Ziyech,Chelsea FC
+6,2022-12-17,Third Place Play-Off,Croatia,Morocco,2:1,90,,,Hakim Ziyech,Chelsea FC
+0,2022-11-21,Group B,England,Iran,6:2,71,,71',Raheem Sterling,Chelsea FC
+1,2022-11-25,Group B,England,USA,0:0,68,,68',Raheem Sterling,Chelsea FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Raheem Sterling,Chelsea FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Raheem Sterling,Chelsea FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,11,79',,Raheem Sterling,Chelsea FC
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,0,on the bench,on the bench,Denis Zakaria,Chelsea FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,0,on the bench,on the bench,Denis Zakaria,Chelsea FC
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,21,69',,Denis Zakaria,Chelsea FC
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,36,54',,Denis Zakaria,Chelsea FC
+0,2022-11-23,Group F,Morocco,Croatia,0:0,79,,79',Mateo Kovacic,Chelsea FC
+1,2022-11-27,Group F,Croatia,Canada,4:1,86,,86',Mateo Kovacic,Chelsea FC
+2,2022-12-01,Group F,Croatia,Belgium,0:0,90,,90',Mateo Kovacic,Chelsea FC
+3,2022-12-05,Round of 16,Japan,Croatia,2:4 on pens,99,,99',Mateo Kovacic,Chelsea FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,105,,105',Mateo Kovacic,Chelsea FC
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,90,,,Mateo Kovacic,Chelsea FC
+6,2022-12-17,Third Place Play-Off,Croatia,Morocco,2:1,90,,,Mateo Kovacic,Chelsea FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,90,,,Thiago Silva,Chelsea FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Thiago Silva,Chelsea FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,0,on the bench,on the bench,Thiago Silva,Chelsea FC
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Thiago Silva,Chelsea FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,120,,,Thiago Silva,Chelsea FC
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Christian Pulisic,Chelsea FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Christian Pulisic,Chelsea FC
+2,2022-11-29,Group B,Iran,USA,0:1,45,,46',Christian Pulisic,Chelsea FC
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,,Christian Pulisic,Chelsea FC
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Edouard Mendy,Chelsea FC
+1,2022-11-25,Group A,Qatar,Senegal,1:3,90,,,Edouard Mendy,Chelsea FC
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,90,,,Edouard Mendy,Chelsea FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Edouard Mendy,Chelsea FC
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,90,,,Granit Xhaka,Arsenal FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Granit Xhaka,Arsenal FC
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,90,,,Granit Xhaka,Arsenal FC
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,90,,,Granit Xhaka,Arsenal FC
+0,2022-11-21,Group B,England,Iran,6:2,71,,71',Bukayo Saka,Arsenal FC
+1,2022-11-25,Group B,England,USA,0:0,78,,78',Bukayo Saka,Arsenal FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Bukayo Saka,Arsenal FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,65,,65',Bukayo Saka,Arsenal FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,79,,79',Bukayo Saka,Arsenal FC
+0,2022-11-23,Group E,Germany,Japan,1:2,45,46',,Takehiro Tomiyasu,Arsenal FC
+1,2022-11-27,Group E,Japan,Costa Rica,0:1,0,on the bench,on the bench,Takehiro Tomiyasu,Arsenal FC
+2,2022-12-01,Group E,Japan,Spain,2:1,21,69',,Takehiro Tomiyasu,Arsenal FC
+3,2022-12-05,Round of 16,Japan,Croatia,2:4 on pens,120,,,Takehiro Tomiyasu,Arsenal FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,Thomas Partey,Arsenal FC
+1,2022-11-28,Group H,South Korea,Ghana,2:3,90,,,Thomas Partey,Arsenal FC
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,90,,,Thomas Partey,Arsenal FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,3,87',,Gabriel Martinelli,Arsenal FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,0,on the bench,on the bench,Gabriel Martinelli,Arsenal FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,90,,,Gabriel Martinelli,Arsenal FC
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,18,72',,Gabriel Martinelli,Arsenal FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,0,on the bench,on the bench,Gabriel Martinelli,Arsenal FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Aaron Ramsdale,Arsenal FC
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Aaron Ramsdale,Arsenal FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Aaron Ramsdale,Arsenal FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Aaron Ramsdale,Arsenal FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Aaron Ramsdale,Arsenal FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,Not in squad,Not in squad,Cédric Soares,Arsenal FC
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,Not in squad,Not in squad,Cédric Soares,Arsenal FC
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,Not in squad,Not in squad,Cédric Soares,Arsenal FC
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,Not in squad,Not in squad,Cédric Soares,Arsenal FC
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,Not in squad,Not in squad,Cédric Soares,Arsenal FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Ben White,Arsenal FC
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Ben White,Arsenal FC
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Ben White,Arsenal FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Ben White,Arsenal FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Ben White,Arsenal FC
+0,2022-11-23,Group F,Belgium,Canada,1:0,0,Not in squad,Not in squad,Albert Sambi Lokonga,Arsenal FC
+1,2022-11-27,Group F,Belgium,Morocco,0:2,0,Not in squad,Not in squad,Albert Sambi Lokonga,Arsenal FC
+2,2022-12-01,Group F,Croatia,Belgium,0:0,0,Not in squad,Not in squad,Albert Sambi Lokonga,Arsenal FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,11,79',,Gabriel Jesus,Arsenal FC
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,17,73',,Gabriel Jesus,Arsenal FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,64,,64',Gabriel Jesus,Arsenal FC
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,Knee Injury,Knee Injury,Gabriel Jesus,Arsenal FC
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,0,Knee Injury,Knee Injury,Gabriel Jesus,Arsenal FC
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Matt Turner,Arsenal FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Matt Turner,Arsenal FC
+2,2022-11-29,Group B,Iran,USA,0:1,90,,,Matt Turner,Arsenal FC
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,,Matt Turner,Arsenal FC
+0,2022-11-22,Group D,France,Australia,4:1,0,on the bench,on the bench,William Saliba,Arsenal FC
+1,2022-11-26,Group D,France,Denmark,2:1,0,on the bench,on the bench,William Saliba,Arsenal FC
+2,2022-11-30,Group D,Tunisia,France,1:0,27,63',,William Saliba,Arsenal FC
+3,2022-12-04,Round of 16,France,Poland,3:1,0,on the bench,on the bench,William Saliba,Arsenal FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,William Saliba,Arsenal FC
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,0,on the bench,on the bench,William Saliba,Arsenal FC
+6,2022-12-18,Final,Argentina,France,7:5 on pens,0,on the bench,on the bench,William Saliba,Arsenal FC
+0,2022-11-21,Group B,England,Iran,6:2,0,Groin Surgery,Groin Surgery,Emile Smith Rowe,Arsenal FC
+1,2022-11-25,Group B,England,USA,0:0,0,Groin Surgery,Groin Surgery,Emile Smith Rowe,Arsenal FC
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Emile Smith Rowe,Arsenal FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Emile Smith Rowe,Arsenal FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Emile Smith Rowe,Arsenal FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,15,75',,Fred,Manchester United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,58,,58',Fred,Manchester United
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,55,,55',Fred,Manchester United
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,on the bench,on the bench,Fred,Manchester United
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,15,105',,Fred,Manchester United
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,Bruno Fernandes,Manchester United
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,90,,,Bruno Fernandes,Manchester United
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,on the bench,on the bench,Bruno Fernandes,Manchester United
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,87,,87',Bruno Fernandes,Manchester United
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,90,,,Bruno Fernandes,Manchester United
+0,2022-11-24,Group G,Brazil,Serbia,2:0,11,79',,Antony,Manchester United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,17,73',,Antony,Manchester United
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,79,,79',Antony,Manchester United
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,on the bench,on the bench,Antony,Manchester United
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,64,56',,Antony,Manchester United
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,0,on the bench,on the bench,Tyrell Malacia,Manchester United
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,0,on the bench,on the bench,Tyrell Malacia,Manchester United
+2,2022-11-29,Group A,Netherlands,Qatar,2:0,0,on the bench,on the bench,Tyrell Malacia,Manchester United
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,0,on the bench,on the bench,Tyrell Malacia,Manchester United
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,0,on the bench,on the bench,Tyrell Malacia,Manchester United
+0,2022-11-22,Group D,France,Australia,4:1,0,on the bench,on the bench,Raphaël Varane,Manchester United
+1,2022-11-26,Group D,France,Denmark,2:1,75,,75',Raphaël Varane,Manchester United
+2,2022-11-30,Group D,Tunisia,France,1:0,63,,63',Raphaël Varane,Manchester United
+3,2022-12-04,Round of 16,France,Poland,3:1,90,,,Raphaël Varane,Manchester United
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Raphaël Varane,Manchester United
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,90,,,Raphaël Varane,Manchester United
+6,2022-12-18,Final,Argentina,France,7:5 on pens,113,,113',Raphaël Varane,Manchester United
+0,2022-11-24,Group G,Brazil,Serbia,2:0,90,,,Casemiro,Manchester United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Casemiro,Manchester United
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,0,on the bench,on the bench,Casemiro,Manchester United
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Casemiro,Manchester United
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,120,,,Casemiro,Manchester United
+0,2022-11-21,Group B,England,Iran,6:2,19,71',,Marcus Rashford,Manchester United
+1,2022-11-25,Group B,England,USA,0:0,12,78',,Marcus Rashford,Manchester United
+2,2022-11-29,Group B,Wales,England,0:3,76,,76',Marcus Rashford,Manchester United
+3,2022-12-04,Round of 16,England,Senegal,3:0,25,65',,Marcus Rashford,Manchester United
+4,2022-12-10,Quarter-Finals,England,France,1:2,5,85',,Marcus Rashford,Manchester United
+0,2022-11-21,Group B,England,Iran,6:2,70,,70',Harry Maguire,Manchester United
+1,2022-11-25,Group B,England,USA,0:0,90,,,Harry Maguire,Manchester United
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Harry Maguire,Manchester United
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Harry Maguire,Manchester United
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Harry Maguire,Manchester United
+0,2022-11-21,Group B,England,Iran,6:2,90,,,Luke Shaw,Manchester United
+1,2022-11-25,Group B,England,USA,0:0,90,,,Luke Shaw,Manchester United
+2,2022-11-29,Group B,Wales,England,0:3,65,,65',Luke Shaw,Manchester United
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Luke Shaw,Manchester United
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Luke Shaw,Manchester United
+0,2022-11-24,Group H,Uruguay,South Korea,0:0,88,,88',Facundo Pellistri,Manchester United
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,28,62',,Facundo Pellistri,Manchester United
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,66,,66',Facundo Pellistri,Manchester United
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,90,,,Christian Eriksen,Manchester United
+1,2022-11-26,Group D,France,Denmark,2:1,90,,,Christian Eriksen,Manchester United
+2,2022-11-30,Group D,Australia,Denmark,1:0,90,,,Christian Eriksen,Manchester United
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,on the bench,on the bench,Diogo Dalot,Manchester United
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,on the bench,on the bench,Diogo Dalot,Manchester United
+2,2022-12-02,Group H,South Korea,Portugal,2:1,90,,,Diogo Dalot,Manchester United
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,90,,,Diogo Dalot,Manchester United
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,79,,79',Diogo Dalot,Manchester United
+0,2022-11-22,Group C,Argentina,Saudi Arabia,1:2,31,59',,Lisandro Martínez,Manchester United
+1,2022-11-26,Group C,Argentina,Mexico,2:0,90,,,Lisandro Martínez,Manchester United
+2,2022-11-30,Group C,Poland,Argentina,0:2,0,on the bench,on the bench,Lisandro Martínez,Manchester United
+3,2022-12-03,Round of 16,Argentina,Australia,2:1,40,50',,Lisandro Martínez,Manchester United
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,112,,112',Lisandro Martínez,Manchester United
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,28,62',,Lisandro Martínez,Manchester United
+6,2022-12-18,Final,Argentina,France,7:5 on pens,0,on the bench,on the bench,Lisandro Martínez,Manchester United
+0,2022-11-24,Group G,Brazil,Serbia,2:0,79,,79',Richarlison,Tottenham Hotspur
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,73,,73',Richarlison,Tottenham Hotspur
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,0,on the bench,on the bench,Richarlison,Tottenham Hotspur
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Richarlison,Tottenham Hotspur
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,84,,84',Richarlison,Tottenham Hotspur
+0,2022-11-22,Group C,Argentina,Saudi Arabia,1:2,59,,59',Cristian Romero,Tottenham Hotspur
+1,2022-11-26,Group C,Argentina,Mexico,2:0,21,69',,Cristian Romero,Tottenham Hotspur
+2,2022-11-30,Group C,Poland,Argentina,0:2,90,,,Cristian Romero,Tottenham Hotspur
+3,2022-12-03,Round of 16,Argentina,Australia,2:1,90,,,Cristian Romero,Tottenham Hotspur
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,78,,78',Cristian Romero,Tottenham Hotspur
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,90,,,Cristian Romero,Tottenham Hotspur
+6,2022-12-18,Final,Argentina,France,7:5 on pens,120,,,Cristian Romero,Tottenham Hotspur
+0,2022-11-23,Group F,Morocco,Croatia,0:0,90,,90',Ivan Perisic,Tottenham Hotspur
+1,2022-11-27,Group F,Croatia,Canada,4:1,86,,86',Ivan Perisic,Tottenham Hotspur
+2,2022-12-01,Group F,Croatia,Belgium,0:0,90,,,Ivan Perisic,Tottenham Hotspur
+3,2022-12-05,Round of 16,Japan,Croatia,2:4 on pens,105,,105',Ivan Perisic,Tottenham Hotspur
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,120,,,Ivan Perisic,Tottenham Hotspur
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,90,,,Ivan Perisic,Tottenham Hotspur
+6,2022-12-17,Third Place Play-Off,Croatia,Morocco,2:1,90,,,Ivan Perisic,Tottenham Hotspur
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,90,,,Pierre-Emile Höjbjerg,Tottenham Hotspur
+1,2022-11-26,Group D,France,Denmark,2:1,90,,,Pierre-Emile Höjbjerg,Tottenham Hotspur
+2,2022-11-30,Group D,Australia,Denmark,1:0,90,,,Pierre-Emile Höjbjerg,Tottenham Hotspur
+0,2022-11-24,Group H,Uruguay,South Korea,0:0,90,,,Rodrigo Bentancur,Tottenham Hotspur
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,90,,,Rodrigo Bentancur,Tottenham Hotspur
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,34,,34',Rodrigo Bentancur,Tottenham Hotspur
+0,2022-11-21,Group B,England,Iran,6:2,76,,76',Harry Kane,Tottenham Hotspur
+1,2022-11-25,Group B,England,USA,0:0,90,,,Harry Kane,Tottenham Hotspur
+2,2022-11-29,Group B,Wales,England,0:3,57,,57',Harry Kane,Tottenham Hotspur
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Harry Kane,Tottenham Hotspur
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Harry Kane,Tottenham Hotspur
+0,2022-11-21,Group B,England,Iran,6:2,20,70',,Eric Dier,Tottenham Hotspur
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Eric Dier,Tottenham Hotspur
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Eric Dier,Tottenham Hotspur
+3,2022-12-04,Round of 16,England,Senegal,3:0,13,77',,Eric Dier,Tottenham Hotspur
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Eric Dier,Tottenham Hotspur
+0,2022-11-22,Group D,France,Australia,4:1,90,,,Hugo Lloris,Tottenham Hotspur
+1,2022-11-26,Group D,France,Denmark,2:1,90,,,Hugo Lloris,Tottenham Hotspur
+2,2022-11-30,Group D,Tunisia,France,1:0,0,on the bench,on the bench,Hugo Lloris,Tottenham Hotspur
+3,2022-12-04,Round of 16,France,Poland,3:1,90,,,Hugo Lloris,Tottenham Hotspur
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Hugo Lloris,Tottenham Hotspur
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,90,,,Hugo Lloris,Tottenham Hotspur
+6,2022-12-18,Final,Argentina,France,7:5 on pens,120,,,Hugo Lloris,Tottenham Hotspur
+0,2022-11-24,Group H,Uruguay,South Korea,0:0,90,,,Heung-min Son,Tottenham Hotspur
+1,2022-11-28,Group H,South Korea,Ghana,2:3,90,,,Heung-min Son,Tottenham Hotspur
+2,2022-12-02,Group H,South Korea,Portugal,2:1,90,,,Heung-min Son,Tottenham Hotspur
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Heung-min Son,Tottenham Hotspur
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,0,on the bench,on the bench,Pape Matar Sarr,Tottenham Hotspur
+1,2022-11-25,Group A,Qatar,Senegal,1:3,13,77',,Pape Matar Sarr,Tottenham Hotspur
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,0,on the bench,on the bench,Pape Matar Sarr,Tottenham Hotspur
+3,2022-12-04,Round of 16,England,Senegal,3:0,45,46',,Pape Matar Sarr,Tottenham Hotspur
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Ben Davies,Tottenham Hotspur
+1,2022-11-25,Group B,Wales,Iran,0:2,90,,,Ben Davies,Tottenham Hotspur
+2,2022-11-29,Group B,Wales,England,0:3,59,,59',Ben Davies,Tottenham Hotspur
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,Tyrone Mings,Aston Villa
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,Tyrone Mings,Aston Villa
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Tyrone Mings,Aston Villa
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Tyrone Mings,Aston Villa
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Tyrone Mings,Aston Villa
+0,2022-11-22,Group C,Mexico,Poland,0:0,90,,,Matty Cash,Aston Villa
+1,2022-11-26,Group C,Poland,Saudi Arabia,2:0,90,,,Matty Cash,Aston Villa
+2,2022-11-30,Group C,Poland,Argentina,0:2,90,,,Matty Cash,Aston Villa
+3,2022-12-04,Round of 16,France,Poland,3:1,90,,,Matty Cash,Aston Villa
+0,2022-11-23,Group F,Belgium,Canada,1:0,90,,,Leander Dendoncker,Aston Villa
+1,2022-11-27,Group F,Belgium,Morocco,0:2,0,on the bench,on the bench,Leander Dendoncker,Aston Villa
+2,2022-12-01,Group F,Croatia,Belgium,0:0,72,,72',Leander Dendoncker,Aston Villa
+0,2022-11-22,Group C,Mexico,Poland,0:0,0,on the bench,on the bench,Jan Bednarek,Aston Villa
+1,2022-11-26,Group C,Poland,Saudi Arabia,2:0,0,on the bench,on the bench,Jan Bednarek,Aston Villa
+2,2022-11-30,Group C,Poland,Argentina,0:2,0,on the bench,on the bench,Jan Bednarek,Aston Villa
+3,2022-12-04,Round of 16,France,Poland,3:1,3,87',,Jan Bednarek,Aston Villa
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,Ollie Watkins,Aston Villa
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,Ollie Watkins,Aston Villa
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Ollie Watkins,Aston Villa
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Ollie Watkins,Aston Villa
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Ollie Watkins,Aston Villa
+0,2022-11-22,Group D,France,Australia,4:1,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+1,2022-11-26,Group D,France,Denmark,2:1,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+2,2022-11-30,Group D,Tunisia,France,1:0,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+3,2022-12-04,Round of 16,France,Poland,3:1,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+6,2022-12-18,Final,Argentina,France,7:5 on pens,0,Not in squad,Not in squad,Lucas Digne,Aston Villa
+0,2022-11-22,Group C,Argentina,Saudi Arabia,1:2,90,,,Emiliano Martínez,Aston Villa
+1,2022-11-26,Group C,Argentina,Mexico,2:0,90,,,Emiliano Martínez,Aston Villa
+2,2022-11-30,Group C,Poland,Argentina,0:2,90,,,Emiliano Martínez,Aston Villa
+3,2022-12-03,Round of 16,Argentina,Australia,2:1,90,,,Emiliano Martínez,Aston Villa
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,120,,,Emiliano Martínez,Aston Villa
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,90,,,Emiliano Martínez,Aston Villa
+6,2022-12-18,Final,Argentina,France,7:5 on pens,120,,,Emiliano Martínez,Aston Villa
+0,2022-11-21,Group B,England,Iran,6:2,90,,,Declan Rice,West Ham United
+1,2022-11-25,Group B,England,USA,0:0,90,,,Declan Rice,West Ham United
+2,2022-11-29,Group B,Wales,England,0:3,58,,58',Declan Rice,West Ham United
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Declan Rice,West Ham United
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Declan Rice,West Ham United
+0,2022-11-24,Group G,Brazil,Serbia,2:0,75,,75',Lucas Paquetá,West Ham United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,45,,46',Lucas Paquetá,West Ham United
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,0,on the bench,on the bench,Lucas Paquetá,West Ham United
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Lucas Paquetá,West Ham United
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,105,,105',Lucas Paquetá,West Ham United
+0,2022-11-22,Group D,France,Australia,4:1,0,on the bench,on the bench,Alphonse Areola,West Ham United
+1,2022-11-26,Group D,France,Denmark,2:1,0,on the bench,on the bench,Alphonse Areola,West Ham United
+2,2022-11-30,Group D,Tunisia,France,1:0,0,on the bench,on the bench,Alphonse Areola,West Ham United
+3,2022-12-04,Round of 16,France,Poland,3:1,0,on the bench,on the bench,Alphonse Areola,West Ham United
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Alphonse Areola,West Ham United
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,0,on the bench,on the bench,Alphonse Areola,West Ham United
+6,2022-12-18,Final,Argentina,France,7:5 on pens,0,on the bench,on the bench,Alphonse Areola,West Ham United
+0,2022-11-23,Group E,Germany,Japan,1:2,0,on the bench,on the bench,Thilo Kehrer,West Ham United
+1,2022-11-27,Group E,Spain,Germany,1:1,70,,70',Thilo Kehrer,West Ham United
+2,2022-12-01,Group E,Costa Rica,Germany,2:4,0,on the bench,on the bench,Thilo Kehrer,West Ham United
+0,2022-11-23,Group F,Morocco,Croatia,0:0,90,,,Nayef Aguerd,West Ham United
+1,2022-11-27,Group F,Belgium,Morocco,0:2,90,,,Nayef Aguerd,West Ham United
+2,2022-12-01,Group F,Canada,Morocco,1:2,90,,,Nayef Aguerd,West Ham United
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,84,,84',Nayef Aguerd,West Ham United
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,Not in squad,Not in squad,Nayef Aguerd,West Ham United
+5,2022-12-14,Semi-Finals,France,Morocco,2:0,0,Not in squad,Not in squad,Nayef Aguerd,West Ham United
+6,2022-12-17,Third Place Play-Off,Croatia,Morocco,2:1,0,on the bench,on the bench,Nayef Aguerd,West Ham United
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Nick Pope,Newcastle United
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Nick Pope,Newcastle United
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Nick Pope,Newcastle United
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Nick Pope,Newcastle United
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Nick Pope,Newcastle United
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,0,on the bench,on the bench,Fabian Schär,Newcastle United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,0,on the bench,on the bench,Fabian Schär,Newcastle United
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,90,,,Fabian Schär,Newcastle United
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,45,,46',Fabian Schär,Newcastle United
+0,2022-11-21,Group B,England,Iran,6:2,90,,,Kieran Trippier,Newcastle United
+1,2022-11-25,Group B,England,USA,0:0,90,,,Kieran Trippier,Newcastle United
+2,2022-11-29,Group B,Wales,England,0:3,25,65',,Kieran Trippier,Newcastle United
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Kieran Trippier,Newcastle United
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Kieran Trippier,Newcastle United
+0,2022-11-21,Group B,England,Iran,6:2,14,76',,Callum Wilson,Newcastle United
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Callum Wilson,Newcastle United
+2,2022-11-29,Group B,Wales,England,0:3,33,57',,Callum Wilson,Newcastle United
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Callum Wilson,Newcastle United
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Callum Wilson,Newcastle United
+0,2022-11-24,Group G,Brazil,Serbia,2:0,0,on the bench,on the bench,Bruno Guimarães,Newcastle United
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,32,58',,Bruno Guimarães,Newcastle United
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,35,55',,Bruno Guimarães,Newcastle United
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,0,on the bench,on the bench,Bruno Guimarães,Newcastle United
+4,2022-12-09,Quarter-Finals,Croatia,Brazil,5:3 on pens,0,on the bench,on the bench,Bruno Guimarães,Newcastle United
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,Daniel Amartey,Leicester City
+1,2022-11-28,Group H,South Korea,Ghana,2:3,90,,,Daniel Amartey,Leicester City
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,90,,,Daniel Amartey,Leicester City
+0,2022-11-23,Group F,Belgium,Canada,1:0,0,on the bench,on the bench,Wout Faes,Leicester City
+1,2022-11-27,Group F,Belgium,Morocco,0:2,0,on the bench,on the bench,Wout Faes,Leicester City
+2,2022-12-01,Group F,Croatia,Belgium,0:0,0,on the bench,on the bench,Wout Faes,Leicester City
+0,2022-11-21,Group B,USA,Wales,1:1,0,on the bench,on the bench,Danny Ward,Leicester City
+1,2022-11-25,Group B,Wales,Iran,0:2,3,87',,Danny Ward,Leicester City
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Danny Ward,Leicester City
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,0,Not in squad,Not in squad,Jannik Vestergaard,Leicester City
+1,2022-11-26,Group D,France,Denmark,2:1,0,Not in squad,Not in squad,Jannik Vestergaard,Leicester City
+2,2022-11-30,Group D,Australia,Denmark,1:0,0,Not in squad,Not in squad,Jannik Vestergaard,Leicester City
+0,2022-11-23,Group F,Belgium,Canada,1:0,90,,,Timothy Castagne,Leicester City
+1,2022-11-27,Group F,Belgium,Morocco,0:2,90,,,Timothy Castagne,Leicester City
+2,2022-12-01,Group F,Croatia,Belgium,0:0,90,,,Timothy Castagne,Leicester City
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Nampalys Mendy,Leicester City
+1,2022-11-25,Group A,Qatar,Senegal,1:3,77,,77',Nampalys Mendy,Leicester City
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,16,74',,Nampalys Mendy,Leicester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Nampalys Mendy,Leicester City
+0,2022-11-23,Group F,Belgium,Canada,1:0,45,,46',Youri Tielemans,Leicester City
+1,2022-11-27,Group F,Belgium,Morocco,0:2,30,60',,Youri Tielemans,Leicester City
+2,2022-12-01,Group F,Croatia,Belgium,0:0,18,72',,Youri Tielemans,Leicester City
+0,2022-11-21,Group B,England,Iran,6:2,0,Knee Injury,Knee Injury,James Maddison,Leicester City
+1,2022-11-25,Group B,England,USA,0:0,0,Knee Injury,Knee Injury,James Maddison,Leicester City
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,James Maddison,Leicester City
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,James Maddison,Leicester City
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,James Maddison,Leicester City
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Conor Coady,Everton FC
+1,2022-11-25,Group B,England,USA,0:0,0,on the bench,on the bench,Conor Coady,Everton FC
+2,2022-11-29,Group B,Wales,England,0:3,0,on the bench,on the bench,Conor Coady,Everton FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,on the bench,on the bench,Conor Coady,Everton FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,on the bench,on the bench,Conor Coady,Everton FC
+0,2022-11-23,Group F,Belgium,Canada,1:0,45,46',,Amadou Onana,Everton FC
+1,2022-11-27,Group F,Belgium,Morocco,0:2,60,,60',Amadou Onana,Everton FC
+2,2022-12-01,Group F,Croatia,Belgium,0:0,0,Yellow card suspension,Yellow card suspension,Amadou Onana,Everton FC
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,90,,,Idrissa Gueye,Everton FC
+1,2022-11-25,Group A,Qatar,Senegal,1:3,90,,,Idrissa Gueye,Everton FC
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,90,,,Idrissa Gueye,Everton FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Yellow card suspension,Yellow card suspension,Idrissa Gueye,Everton FC
+0,2022-11-21,Group B,England,Iran,6:2,90,,,Jordan Pickford,Everton FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Jordan Pickford,Everton FC
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Jordan Pickford,Everton FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,90,,,Jordan Pickford,Everton FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,90,,,Jordan Pickford,Everton FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,on the bench,on the bench,José Sá,Wolverhampton Wanderers
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,on the bench,on the bench,José Sá,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,on the bench,on the bench,José Sá,Wolverhampton Wanderers
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,on the bench,on the bench,José Sá,Wolverhampton Wanderers
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,on the bench,on the bench,José Sá,Wolverhampton Wanderers
+0,2022-11-22,Group C,Mexico,Poland,0:0,19,71',,Raúl Jiménez,Wolverhampton Wanderers
+1,2022-11-26,Group C,Argentina,Mexico,2:0,24,66',,Raúl Jiménez,Wolverhampton Wanderers
+2,2022-11-30,Group C,Saudi Arabia,Mexico,1:2,13,77',,Raúl Jiménez,Wolverhampton Wanderers
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,Not in squad,Not in squad,João Moutinho,Wolverhampton Wanderers
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,Not in squad,Not in squad,João Moutinho,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,Not in squad,Not in squad,João Moutinho,Wolverhampton Wanderers
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,Not in squad,Not in squad,João Moutinho,Wolverhampton Wanderers
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,Not in squad,Not in squad,João Moutinho,Wolverhampton Wanderers
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,on the bench,on the bench,Matheus Nunes,Wolverhampton Wanderers
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,8,82',,Matheus Nunes,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,65,,65',Matheus Nunes,Wolverhampton Wanderers
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,on the bench,on the bench,Matheus Nunes,Wolverhampton Wanderers
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,on the bench,on the bench,Matheus Nunes,Wolverhampton Wanderers
+0,2022-11-24,Group H,Uruguay,South Korea,0:0,0,on the bench,on the bench,Hee-chan Hwang,Wolverhampton Wanderers
+1,2022-11-28,Group H,South Korea,Ghana,2:3,0,on the bench,on the bench,Hee-chan Hwang,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,24,66',,Hee-chan Hwang,Wolverhampton Wanderers
+3,2022-12-05,Round of 16,Brazil,South Korea,4:1,90,,,Hee-chan Hwang,Wolverhampton Wanderers
+0,2022-11-24,Group H,Portugal,Ghana,3:2,77,,77',Rúben Neves,Wolverhampton Wanderers
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,69,,69',Rúben Neves,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,65,,65',Rúben Neves,Wolverhampton Wanderers
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,9,81',,Rúben Neves,Wolverhampton Wanderers
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,51,,51',Rúben Neves,Wolverhampton Wanderers
+0,2022-11-24,Group H,Portugal,Ghana,3:2,0,Not in squad,Not in squad,Nélson Semedo,Wolverhampton Wanderers
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,0,Not in squad,Not in squad,Nélson Semedo,Wolverhampton Wanderers
+2,2022-12-02,Group H,South Korea,Portugal,2:1,0,Not in squad,Not in squad,Nélson Semedo,Wolverhampton Wanderers
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,Not in squad,Not in squad,Nélson Semedo,Wolverhampton Wanderers
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,Not in squad,Not in squad,Nélson Semedo,Wolverhampton Wanderers
+0,2022-11-22,Group C,Mexico,Poland,0:0,0,Cruciate Ligament Rupture,Cruciate Ligament Rupture,Jakub Moder,Brighton & Hove Albion
+1,2022-11-26,Group C,Poland,Saudi Arabia,2:0,0,Cruciate Ligament Rupture,Cruciate Ligament Rupture,Jakub Moder,Brighton & Hove Albion
+2,2022-11-30,Group C,Poland,Argentina,0:2,0,Cruciate Ligament Rupture,Cruciate Ligament Rupture,Jakub Moder,Brighton & Hove Albion
+3,2022-12-04,Round of 16,France,Poland,3:1,0,Cruciate Ligament Rupture,Cruciate Ligament Rupture,Jakub Moder,Brighton & Hove Albion
+0,2022-11-20,Group A,Qatar,Ecuador,0:2,22,68',,Jeremy Sarmiento,Brighton & Hove Albion
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,16,74',,Jeremy Sarmiento,Brighton & Hove Albion
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,45,46',,Jeremy Sarmiento,Brighton & Hove Albion
+0,2022-11-20,Group A,Qatar,Ecuador,0:2,90,,,Pervis Estupiñán,Brighton & Hove Albion
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,90,,,Pervis Estupiñán,Brighton & Hove Albion
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,90,,,Pervis Estupiñán,Brighton & Hove Albion
+0,2022-11-20,Group A,Qatar,Ecuador,0:2,90,,90',Moisés Caicedo,Brighton & Hove Albion
+1,2022-11-25,Group A,Netherlands,Ecuador,1:1,90,,,Moisés Caicedo,Brighton & Hove Albion
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,90,,,Moisés Caicedo,Brighton & Hove Albion
+0,2022-11-23,Group F,Belgium,Canada,1:0,28,62',,Leandro Trossard,Brighton & Hove Albion
+1,2022-11-27,Group F,Belgium,Morocco,0:2,16,74',,Leandro Trossard,Brighton & Hove Albion
+2,2022-12-01,Group F,Croatia,Belgium,0:0,59,,59',Leandro Trossard,Brighton & Hove Albion
+0,2022-11-23,Group E,Spain,Costa Rica,7:0,0,on the bench,on the bench,Robert Sánchez,Brighton & Hove Albion
+1,2022-11-27,Group E,Spain,Germany,1:1,0,on the bench,on the bench,Robert Sánchez,Brighton & Hove Albion
+2,2022-12-01,Group E,Japan,Spain,2:1,0,on the bench,on the bench,Robert Sánchez,Brighton & Hove Albion
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,0,on the bench,on the bench,Robert Sánchez,Brighton & Hove Albion
+0,2022-11-23,Group E,Germany,Japan,1:2,33,57',,Kaoru Mitoma,Brighton & Hove Albion
+1,2022-11-27,Group E,Japan,Costa Rica,0:1,28,62',,Kaoru Mitoma,Brighton & Hove Albion
+2,2022-12-01,Group E,Japan,Spain,2:1,45,46',,Kaoru Mitoma,Brighton & Hove Albion
+3,2022-12-05,Round of 16,Japan,Croatia,2:4 on pens,56,64',,Kaoru Mitoma,Brighton & Hove Albion
+0,2022-11-24,Group H,Portugal,Ghana,3:2,24,66',,Tariq Lamptey,Brighton & Hove Albion
+1,2022-11-28,Group H,South Korea,Ghana,2:3,78,,78',Tariq Lamptey,Brighton & Hove Albion
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,0,on the bench,on the bench,Tariq Lamptey,Brighton & Hove Albion
+0,2022-11-22,Group C,Argentina,Saudi Arabia,1:2,0,on the bench,on the bench,Alexis Mac Allister,Brighton & Hove Albion
+1,2022-11-26,Group C,Argentina,Mexico,2:0,69,,69',Alexis Mac Allister,Brighton & Hove Albion
+2,2022-11-30,Group C,Poland,Argentina,0:2,84,,84',Alexis Mac Allister,Brighton & Hove Albion
+3,2022-12-03,Round of 16,Argentina,Australia,2:1,80,,80',Alexis Mac Allister,Brighton & Hove Albion
+4,2022-12-09,Quarter-Finals,Netherlands,Argentina,5:6 on pens,120,,,Alexis Mac Allister,Brighton & Hove Albion
+5,2022-12-13,Semi-Finals,Argentina,Croatia,3:0,86,,86',Alexis Mac Allister,Brighton & Hove Albion
+6,2022-12-18,Final,Argentina,France,7:5 on pens,116,,116',Alexis Mac Allister,Brighton & Hove Albion
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,James Ward-Prowse,Southampton FC
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,James Ward-Prowse,Southampton FC
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,James Ward-Prowse,Southampton FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,James Ward-Prowse,Southampton FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,James Ward-Prowse,Southampton FC
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,Kyle Walker-Peters,Southampton FC
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,Kyle Walker-Peters,Southampton FC
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Kyle Walker-Peters,Southampton FC
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Kyle Walker-Peters,Southampton FC
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Kyle Walker-Peters,Southampton FC
+0,2022-11-23,Group E,Germany,Japan,1:2,0,on the bench,on the bench,Armel Bella-Kotchap,Southampton FC
+1,2022-11-27,Group E,Spain,Germany,1:1,0,on the bench,on the bench,Armel Bella-Kotchap,Southampton FC
+2,2022-12-01,Group E,Costa Rica,Germany,2:4,0,on the bench,on the bench,Armel Bella-Kotchap,Southampton FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,90,,,Mohammed Salisu,Southampton FC
+1,2022-11-28,Group H,South Korea,Ghana,2:3,90,,,Mohammed Salisu,Southampton FC
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,90,,,Mohammed Salisu,Southampton FC
+0,2022-11-23,Group E,Spain,Costa Rica,7:0,0,on the bench,on the bench,David Raya,Brentford FC
+1,2022-11-27,Group E,Spain,Germany,1:1,0,on the bench,on the bench,David Raya,Brentford FC
+2,2022-12-01,Group E,Japan,Spain,2:1,0,on the bench,on the bench,David Raya,Brentford FC
+3,2022-12-06,Round of 16,Morocco,Spain,3:0 on pens,0,on the bench,on the bench,David Raya,Brentford FC
+0,2022-11-21,Group B,England,Iran,6:2,0,on the bench,on the bench,Saman Ghoddos,Brentford FC
+1,2022-11-25,Group B,Wales,Iran,0:2,0,on the bench,on the bench,Saman Ghoddos,Brentford FC
+2,2022-11-29,Group B,Iran,USA,0:1,45,46',,Saman Ghoddos,Brentford FC
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,25,65',,Mathias Jensen,Brentford FC
+1,2022-11-26,Group D,France,Denmark,2:1,0,on the bench,on the bench,Mathias Jensen,Brentford FC
+2,2022-11-30,Group D,Australia,Denmark,1:0,59,,59',Mathias Jensen,Brentford FC
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,45,45',,Mikkel Damsgaard,Brentford FC
+1,2022-11-26,Group D,France,Denmark,2:1,73,,73',Mikkel Damsgaard,Brentford FC
+2,2022-11-30,Group D,Australia,Denmark,1:0,31,59',,Mikkel Damsgaard,Brentford FC
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,0,on the bench,on the bench,Christian Nörgaard,Brentford FC
+1,2022-11-26,Group D,France,Denmark,2:1,5,85',,Christian Nörgaard,Brentford FC
+2,2022-11-30,Group D,Australia,Denmark,1:0,0,on the bench,on the bench,Christian Nörgaard,Brentford FC
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,81,,81',Bryan Mbeumo,Brentford FC
+1,2022-11-28,Group G,Cameroon,Serbia,3:3,81,,81',Bryan Mbeumo,Brentford FC
+2,2022-12-02,Group G,Cameroon,Brazil,1:0,64,,64',Bryan Mbeumo,Brentford FC
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,Tyrick Mitchell,Crystal Palace
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,Tyrick Mitchell,Crystal Palace
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Tyrick Mitchell,Crystal Palace
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Tyrick Mitchell,Crystal Palace
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Tyrick Mitchell,Crystal Palace
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,90,,,Joachim Andersen,Crystal Palace
+1,2022-11-26,Group D,France,Denmark,2:1,90,,,Joachim Andersen,Crystal Palace
+2,2022-11-30,Group D,Australia,Denmark,1:0,90,,,Joachim Andersen,Crystal Palace
+0,2022-11-24,Group H,Portugal,Ghana,3:2,13,77',,Jordan Ayew,Crystal Palace
+1,2022-11-28,Group H,South Korea,Ghana,2:3,78,,78',Jordan Ayew,Crystal Palace
+2,2022-12-02,Group H,Ghana,Uruguay,0:2,45,,46',Jordan Ayew,Crystal Palace
+0,2022-11-21,Group B,England,Iran,6:2,0,Not in squad,Not in squad,Marc Guéhi,Crystal Palace
+1,2022-11-25,Group B,England,USA,0:0,0,Not in squad,Not in squad,Marc Guéhi,Crystal Palace
+2,2022-11-29,Group B,Wales,England,0:3,0,Not in squad,Not in squad,Marc Guéhi,Crystal Palace
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Not in squad,Not in squad,Marc Guéhi,Crystal Palace
+4,2022-12-10,Quarter-Finals,England,France,1:2,0,Not in squad,Not in squad,Marc Guéhi,Crystal Palace
+0,2022-11-21,Group B,USA,Wales,1:1,11,79',,Brennan Johnson,Nottingham Forest
+1,2022-11-25,Group B,Wales,Iran,0:2,33,57',,Brennan Johnson,Nottingham Forest
+2,2022-11-29,Group B,Wales,England,0:3,45,46',,Brennan Johnson,Nottingham Forest
+0,2022-11-24,Group G,Switzerland,Cameroon,1:0,90,,,Remo Freuler,Nottingham Forest
+1,2022-11-28,Group G,Brazil,Switzerland,1:0,90,,,Remo Freuler,Nottingham Forest
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,90,,,Remo Freuler,Nottingham Forest
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,54,,54',Remo Freuler,Nottingham Forest
+0,2022-11-21,Group A,Senegal,Netherlands,0:2,73,,73',Cheikhou Kouyaté,Nottingham Forest
+1,2022-11-25,Group A,Qatar,Senegal,1:3,0,Hamstring Injury,Hamstring Injury,Cheikhou Kouyaté,Nottingham Forest
+2,2022-11-29,Group A,Ecuador,Senegal,1:2,0,Hamstring Injury,Hamstring Injury,Cheikhou Kouyaté,Nottingham Forest
+3,2022-12-04,Round of 16,England,Senegal,3:0,0,Hamstring Injury,Hamstring Injury,Cheikhou Kouyaté,Nottingham Forest
+0,2022-11-21,Group B,USA,Wales,1:1,79,,79',Neco Williams,Nottingham Forest
+1,2022-11-25,Group B,Wales,Iran,0:2,90,,,Neco Williams,Nottingham Forest
+2,2022-11-29,Group B,Wales,England,0:3,36,,36',Neco Williams,Nottingham Forest
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Wayne Hennessey,Nottingham Forest
+1,2022-11-25,Group B,Wales,Iran,0:2,86,,,Wayne Hennessey,Nottingham Forest
+2,2022-11-29,Group B,Wales,England,0:3,0,Red card suspension,Red card suspension,Wayne Hennessey,Nottingham Forest
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Tyler Adams,Leeds United
+1,2022-11-25,Group B,England,USA,0:0,90,,,Tyler Adams,Leeds United
+2,2022-11-29,Group B,Iran,USA,0:1,90,,,Tyler Adams,Leeds United
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,,Tyler Adams,Leeds United
+0,2022-11-21,Group B,USA,Wales,1:1,24,66',,Brenden Aaronson,Leeds United
+1,2022-11-25,Group B,England,USA,0:0,13,77',,Brenden Aaronson,Leeds United
+2,2022-11-29,Group B,Iran,USA,0:1,45,46',,Brenden Aaronson,Leeds United
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,23,67',,Brenden Aaronson,Leeds United
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,90,,,Rasmus Kristensen,Leeds United
+1,2022-11-26,Group D,France,Denmark,2:1,90,,90',Rasmus Kristensen,Leeds United
+2,2022-11-30,Group D,Australia,Denmark,1:0,45,,46',Rasmus Kristensen,Leeds United
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Tim Ream,Fulham FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Tim Ream,Fulham FC
+2,2022-11-29,Group B,Iran,USA,0:1,90,,,Tim Ream,Fulham FC
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,,Tim Ream,Fulham FC
+0,2022-11-21,Group B,USA,Wales,1:1,90,,90',Harry Wilson,Fulham FC
+1,2022-11-25,Group B,Wales,Iran,0:2,57,,57',Harry Wilson,Fulham FC
+2,2022-11-29,Group B,Wales,England,0:3,13,77',,Harry Wilson,Fulham FC
+0,2022-11-24,Group H,Portugal,Ghana,3:2,2,88',,João Palhinha,Fulham FC
+1,2022-11-28,Group H,Portugal,Uruguay,2:0,8,82',,João Palhinha,Fulham FC
+2,2022-12-02,Group H,South Korea,Portugal,2:1,25,65',,João Palhinha,Fulham FC
+3,2022-12-06,Round of 16,Portugal,Switzerland,6:1,0,on the bench,on the bench,João Palhinha,Fulham FC
+4,2022-12-10,Quarter-Finals,Morocco,Portugal,1:0,0,on the bench,on the bench,João Palhinha,Fulham FC
+0,2022-11-21,Group B,USA,Wales,1:1,45,,46',Daniel James,Fulham FC
+1,2022-11-25,Group B,Wales,Iran,0:2,33,57',,Daniel James,Fulham FC
+2,2022-11-29,Group B,Wales,England,0:3,77,,77',Daniel James,Fulham FC
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Antonee Robinson,Fulham FC
+1,2022-11-25,Group B,England,USA,0:0,90,,,Antonee Robinson,Fulham FC
+2,2022-11-29,Group B,Iran,USA,0:1,90,,,Antonee Robinson,Fulham FC
+3,2022-12-03,Round of 16,Netherlands,USA,3:1,90,,90',Antonee Robinson,Fulham FC
+0,2022-11-24,Group G,Brazil,Serbia,2:0,83,,83',Aleksandar Mitrović,Fulham FC
+1,2022-11-28,Group G,Cameroon,Serbia,3:3,90,,,Aleksandar Mitrović,Fulham FC
+2,2022-12-02,Group G,Serbia,Switzerland,2:3,90,,,Aleksandar Mitrović,Fulham FC
+0,2022-11-21,Group B,USA,Wales,1:1,45,46',,Kieffer Moore,AFC Bournemouth
+1,2022-11-25,Group B,Wales,Iran,0:2,90,,,Kieffer Moore,AFC Bournemouth
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Kieffer Moore,AFC Bournemouth
+0,2022-11-21,Group B,USA,Wales,1:1,90,,,Chris Mepham,AFC Bournemouth
+1,2022-11-25,Group B,Wales,Iran,0:2,90,,,Chris Mepham,AFC Bournemouth
+2,2022-11-29,Group B,Wales,England,0:3,90,,,Chris Mepham,AFC Bournemouth
+0,2022-11-22,Group D,Denmark,Tunisia,0:0,0,Not in squad,Not in squad,Philip Billing,AFC Bournemouth
+1,2022-11-26,Group D,France,Denmark,2:1,0,Not in squad,Not in squad,Philip Billing,AFC Bournemouth
+2,2022-11-30,Group D,Australia,Denmark,1:0,0,Not in squad,Not in squad,Philip Billing,AFC Bournemouth
