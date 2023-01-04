@@ -3,6 +3,7 @@ from typing import Literal
 import numpy as np
 import pandas as pd
 import requests
+
 from transfermarket.utils import headers
 
 
@@ -148,7 +149,7 @@ def get_player_availability(
         "/"
     )[0]
     match_data = get_match_data(player_url, season)
-    if not match_data:
+    if match_data is None:
         return
     minutes_played = get_minutes_played(match_data)
     player_availability = calculate_player_availability(
