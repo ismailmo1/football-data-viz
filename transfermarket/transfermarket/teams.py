@@ -17,7 +17,7 @@ def get_players(team_url: str) -> Dict[str, str]:
     team_res = requests.get(
         url="https://www.transfermarkt.com" + team_url, headers=headers
     )
-    soup = bs4.BeautifulSoup(team_res.text)
+    soup = bs4.BeautifulSoup(team_res.text, features="lxml")
     players = {
         link
         for link in soup.select("tr .posrela a")
